@@ -8,3 +8,4 @@ Git is nice software
 Git and GitHub
 create new branch is fast
 brancn manage
+bug
