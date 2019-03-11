@@ -6,3 +6,4 @@ python
 Git has a stage
 Git is nice software
 Git and GitHub
+create new branch is fast
